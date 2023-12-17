@@ -1,0 +1,16 @@
+{
+  "name": "gabinet-psychodietetyczny-backend",
+  "version": "1.0.0",
+  "description": "Backend dla Gabinetu Psychodietetycznego Agaty JW",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.11",
+    "dotenv": "^8.2.0"
+  }
+}
